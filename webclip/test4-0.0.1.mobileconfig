@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<data>undefined</data>
+			<key>IgnoreManifestScope</key>
+			<true/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>eeeee</string>
+			<key>PayloadDescription</key>
+			<string>Configuration Payload description</string>
+			<key>PayloadDisplayName</key>
+			<string>PakePayload</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-CE7459F760EB</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>E0736409-C08F-4F54-86DA-CE7459F760EB</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<false/>
+			<key>URL</key>
+			<string>https://pphtml.pages.dev/test</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>PakePlus-iOS-test4</string>
+	<key>PayloadIdentifier</key>
+	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-CE7459F760EB</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>6E3BF4EB-11D9-4F2E-8DE8-CE7459F760EB</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
